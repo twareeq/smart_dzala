@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "167151700426",
+    "project_id": "smart-dzala",
+    "storage_bucket": "smart-dzala.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167151700426:android:200370edb538ffc298a733",
+        "android_client_info": {
+          "package_name": "com.example.smart_dzala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167151700426-fq236mud7ht1jg4mh6u2dn1c309ovg64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtnp-g4w1kATTQvW56nTZeqgQlrpI3E9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167151700426-fq236mud7ht1jg4mh6u2dn1c309ovg64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
